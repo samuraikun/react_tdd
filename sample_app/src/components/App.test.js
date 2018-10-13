@@ -29,5 +29,9 @@ describe('App', () => {
     it('add a new gift to the rendered list when clicking the `お布施する` button', () => {
       expect(app.find('.gift-list').children().length).toEqual(1);
     });
+
+    it('creates a Gift Component', () => {
+      expect(app.find('Gift').exists()).toBe(true);
+    });
   })
 });
