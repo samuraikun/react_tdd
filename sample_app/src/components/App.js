@@ -41,7 +41,13 @@ class App extends Component {
             })
           }
         </div>
-        <Button className='btn-add' onClick={this.addGift}>お布施する</Button>
+        <Button
+          className='btn-add'
+          bsStyle='success'
+          onClick={this.addGift}
+        >
+          お布施する
+        </Button>
       </div>
     );
   }

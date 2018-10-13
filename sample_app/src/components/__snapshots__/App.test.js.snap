@@ -28,7 +28,7 @@ ShallowWrapper {
           active={false}
           block={false}
           bsClass="btn"
-          bsStyle="default"
+          bsStyle="success"
           className="btn-add"
           disabled={false}
           onClick={[Function]}
@@ -70,7 +70,7 @@ ShallowWrapper {
           "active": false,
           "block": false,
           "bsClass": "btn",
-          "bsStyle": "default",
+          "bsStyle": "success",
           "children": "お布施する",
           "className": "btn-add",
           "disabled": false,
@@ -100,7 +100,7 @@ ShallowWrapper {
             active={false}
             block={false}
             bsClass="btn"
-            bsStyle="default"
+            bsStyle="success"
             className="btn-add"
             disabled={false}
             onClick={[Function]}
@@ -142,7 +142,7 @@ ShallowWrapper {
             "active": false,
             "block": false,
             "bsClass": "btn",
-            "bsStyle": "default",
+            "bsStyle": "success",
             "children": "お布施する",
             "className": "btn-add",
             "disabled": false,

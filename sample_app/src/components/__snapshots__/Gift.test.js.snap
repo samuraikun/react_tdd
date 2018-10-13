@@ -68,14 +68,15 @@ ShallowWrapper {
           active={false}
           block={false}
           bsClass="btn"
-          bsStyle="default"
+          bsStyle="danger"
           className="btn-remove"
           disabled={false}
           onClick={[Function]}
         >
-          Remove
+          やめる
         </Button>,
       ],
+      "className": "gift",
     },
     "ref": null,
     "rendered": Array [
@@ -242,14 +243,14 @@ ShallowWrapper {
           "active": false,
           "block": false,
           "bsClass": "btn",
-          "bsStyle": "default",
-          "children": "Remove",
+          "bsStyle": "danger",
+          "children": "やめる",
           "className": "btn-remove",
           "disabled": false,
           "onClick": [Function],
         },
         "ref": null,
-        "rendered": "Remove",
+        "rendered": "やめる",
         "type": [Function],
       },
     ],
@@ -305,14 +306,15 @@ ShallowWrapper {
             active={false}
             block={false}
             bsClass="btn"
-            bsStyle="default"
+            bsStyle="danger"
             className="btn-remove"
             disabled={false}
             onClick={[Function]}
           >
-            Remove
+            やめる
           </Button>,
         ],
+        "className": "gift",
       },
       "ref": null,
       "rendered": Array [
@@ -479,14 +481,14 @@ ShallowWrapper {
             "active": false,
             "block": false,
             "bsClass": "btn",
-            "bsStyle": "default",
-            "children": "Remove",
+            "bsStyle": "danger",
+            "children": "やめる",
             "className": "btn-remove",
             "disabled": false,
             "onClick": [Function],
           },
           "ref": null,
-          "rendered": "Remove",
+          "rendered": "やめる",
           "type": [Function],
         },
       ],
