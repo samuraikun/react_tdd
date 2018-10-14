@@ -16,4 +16,8 @@ describe('App', () => {
   it('contains a connected Bitcoin Component', () => {
     expect(app.find('Connect(Bitcoin)').exists()).toBe(true);
   });
+
+  it('contains a link to the coindesk price page', () => {
+    expect(app.find('a').props().href).toBe('https://www.coindesk.com/price');
+  });
 });
