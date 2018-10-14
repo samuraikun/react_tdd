@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Wallet from './Wallet';
+import Bitcoin from './Bitcoin';
 
 class App extends Component {
   render() {
@@ -8,6 +9,8 @@ class App extends Component {
         <h2>Wallet Check</h2>
         <hr />
         <Wallet />
+        <hr />
+        <Bitcoin />
       </div>
     );
   }
