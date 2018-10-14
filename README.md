@@ -15,3 +15,4 @@
 
 ## Sample App Content
 - Simple Donation App
+- Wallet App
